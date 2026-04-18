@@ -1,0 +1,7 @@
+dataset,display,n_cases,n_term_occurrences,term_depth_mean,term_depth_median,term_ic_mean,term_ic_median,case_mean_depth_mean,case_mean_ic_mean
+phenopacket_all,Phenopacket (all),8062,66760,5.647,5.0,3.974,3.747,5.573,4.122
+phenopacket_6901,"Phenopacket (6,901)",6901,64719,5.65,5.0,3.955,3.717,5.58,4.033
+RAMEDIS,RAMEDIS,624,4961,5.449,5.0,4.568,4.427,5.517,4.718
+LIRICAL,LIRICAL,370,5267,5.57,5.0,4.12,3.962,5.446,4.253
+HMS,HMS,88,1707,4.704,5.0,5.177,4.985,4.668,5.147
+MME,MME,40,486,5.825,5.0,4.201,3.974,5.847,4.225

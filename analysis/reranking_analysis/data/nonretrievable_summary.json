@@ -1,0 +1,35 @@
+{
+  "phenopacket": {
+    "total": 6901,
+    "non_retrievable": 1278,
+    "non_retrievable_pct": 18.52,
+    "retrievable_mean_pos_hpo": 9.56,
+    "nonret_mean_pos_hpo": 8.58,
+    "retrievable_median_hpoa": 52,
+    "nonret_median_hpoa": 24.0,
+    "always_missed_diseases": 3,
+    "score_50_nonret_mean": 0.6523
+  },
+  "rarebench": {
+    "RAMEDIS": {
+      "total": 624,
+      "non_retrievable": 270,
+      "non_retrievable_pct": 43.27
+    },
+    "HMS": {
+      "total": 88,
+      "non_retrievable": 55,
+      "non_retrievable_pct": 62.5
+    },
+    "LIRICAL": {
+      "total": 370,
+      "non_retrievable": 53,
+      "non_retrievable_pct": 14.32
+    },
+    "MME": {
+      "total": 40,
+      "non_retrievable": 2,
+      "non_retrievable_pct": 5.0
+    }
+  }
+}

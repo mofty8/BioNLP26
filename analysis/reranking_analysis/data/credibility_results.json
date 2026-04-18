@@ -1,0 +1,438 @@
+{
+  "bootstrap_ci": [
+    {
+      "dataset": "PhenoPacket",
+      "system": "Retriever (PhenoDP)",
+      "n": 6898,
+      "hit1": 0.5122,
+      "ci_lo": 0.5001,
+      "ci_hi": 0.5242
+    },
+    {
+      "dataset": "PhenoPacket",
+      "system": "Reranker (G4 v7 top10)",
+      "n": 6898,
+      "hit1": 0.5394,
+      "ci_lo": 0.5275,
+      "ci_hi": 0.5513
+    },
+    {
+      "dataset": "PhenoPacket",
+      "system": "LLM direct (Med42-70B)",
+      "n": 6898,
+      "hit1": 0.1154,
+      "ci_lo": 0.108,
+      "ci_hi": 0.1231
+    },
+    {
+      "dataset": "PhenoPacket",
+      "system": "McNemar ret vs reranker",
+      "n": 248,
+      "hit1": 0.12096774193548387,
+      "ci_lo": 0.0,
+      "ci_hi": 141.004
+    },
+    {
+      "dataset": "PhenoPacket",
+      "system": "McNemar ret vs LLM",
+      "n": 3489,
+      "hit1": 0.8922327314416738,
+      "ci_lo": 0.0,
+      "ci_hi": 2145.51
+    },
+    {
+      "dataset": "RAMEDIS",
+      "system": "Retriever",
+      "n": 624,
+      "hit1": 0.1026,
+      "ci_lo": 0.0785,
+      "ci_hi": 0.1266
+    },
+    {
+      "dataset": "RAMEDIS",
+      "system": "LLM fuzzy (pred+resolved)",
+      "n": 624,
+      "hit1": 0.4679,
+      "ci_lo": 0.4295,
+      "ci_hi": 0.5064
+    },
+    {
+      "dataset": "RAMEDIS",
+      "system": "LLM exact (pred only)",
+      "n": 624,
+      "hit1": 0.3446,
+      "ci_lo": 0.3077,
+      "ci_hi": 0.383
+    },
+    {
+      "dataset": "RAMEDIS",
+      "system": "LLM multi-truth fuzzy",
+      "n": 624,
+      "hit1": 0.4679,
+      "ci_lo": 0.4295,
+      "ci_hi": 0.5064
+    },
+    {
+      "dataset": "RAMEDIS",
+      "system": "LLM multi-truth exact",
+      "n": 624,
+      "hit1": 0.3446,
+      "ci_lo": 0.3077,
+      "ci_hi": 0.3814
+    },
+    {
+      "dataset": "HMS",
+      "system": "Retriever",
+      "n": 68,
+      "hit1": 0.0735,
+      "ci_lo": 0.0147,
+      "ci_hi": 0.1471
+    },
+    {
+      "dataset": "HMS",
+      "system": "LLM fuzzy (pred+resolved)",
+      "n": 68,
+      "hit1": 0.2059,
+      "ci_lo": 0.1176,
+      "ci_hi": 0.3088
+    },
+    {
+      "dataset": "HMS",
+      "system": "LLM exact (pred only)",
+      "n": 68,
+      "hit1": 0.0,
+      "ci_lo": 0.0,
+      "ci_hi": 0.0
+    },
+    {
+      "dataset": "HMS",
+      "system": "LLM multi-truth fuzzy",
+      "n": 68,
+      "hit1": 0.2353,
+      "ci_lo": 0.1324,
+      "ci_hi": 0.3382
+    },
+    {
+      "dataset": "HMS",
+      "system": "LLM multi-truth exact",
+      "n": 68,
+      "hit1": 0.0294,
+      "ci_lo": 0.0,
+      "ci_hi": 0.0735
+    },
+    {
+      "dataset": "LIRICAL",
+      "system": "Retriever",
+      "n": 370,
+      "hit1": 0.527,
+      "ci_lo": 0.4757,
+      "ci_hi": 0.5784
+    },
+    {
+      "dataset": "LIRICAL",
+      "system": "LLM fuzzy (pred+resolved)",
+      "n": 370,
+      "hit1": 0.1595,
+      "ci_lo": 0.1243,
+      "ci_hi": 0.1973
+    },
+    {
+      "dataset": "LIRICAL",
+      "system": "LLM exact (pred only)",
+      "n": 370,
+      "hit1": 0.0351,
+      "ci_lo": 0.0189,
+      "ci_hi": 0.0568
+    },
+    {
+      "dataset": "LIRICAL",
+      "system": "LLM multi-truth fuzzy",
+      "n": 370,
+      "hit1": 0.1595,
+      "ci_lo": 0.1216,
+      "ci_hi": 0.1973
+    },
+    {
+      "dataset": "LIRICAL",
+      "system": "LLM multi-truth exact",
+      "n": 370,
+      "hit1": 0.0351,
+      "ci_lo": 0.0189,
+      "ci_hi": 0.0541
+    },
+    {
+      "dataset": "MME",
+      "system": "Retriever",
+      "n": 40,
+      "hit1": 0.65,
+      "ci_lo": 0.5,
+      "ci_hi": 0.8
+    },
+    {
+      "dataset": "MME",
+      "system": "LLM fuzzy (pred+resolved)",
+      "n": 40,
+      "hit1": 0.025,
+      "ci_lo": 0.0,
+      "ci_hi": 0.075
+    },
+    {
+      "dataset": "MME",
+      "system": "LLM exact (pred only)",
+      "n": 40,
+      "hit1": 0.0,
+      "ci_lo": 0.0,
+      "ci_hi": 0.0
+    },
+    {
+      "dataset": "MME",
+      "system": "LLM multi-truth fuzzy",
+      "n": 40,
+      "hit1": 0.025,
+      "ci_lo": 0.0,
+      "ci_hi": 0.075
+    },
+    {
+      "dataset": "MME",
+      "system": "LLM multi-truth exact",
+      "n": 40,
+      "hit1": 0.0,
+      "ci_lo": 0.0,
+      "ci_hi": 0.0
+    }
+  ],
+  "oracle": [
+    {
+      "comparison": "PhenoPacket ret vs LLM (Med42)",
+      "n": 6898,
+      "both": 420,
+      "ret_only": 3113,
+      "sys2_only": 376,
+      "neither": 2989,
+      "oracle_hit1": 0.5667,
+      "ret_hit1": 0.5122,
+      "sys2_hit1": 0.1154,
+      "complementary_cases": 3489
+    },
+    {
+      "comparison": "PhenoPacket ret vs reranker (G4 v7 top10)",
+      "n": 6898,
+      "both": 3503,
+      "ret_only": 30,
+      "sys2_only": 218,
+      "neither": 3147,
+      "oracle_hit1": 0.5438,
+      "ret_hit1": 0.5122,
+      "sys2_hit1": 0.5394,
+      "complementary_cases": 248
+    },
+    {
+      "comparison": "RAMEDIS ret vs LLM fuzzy (standard)",
+      "n": 624,
+      "both": 37,
+      "ret_only": 27,
+      "sys2_only": 255,
+      "neither": 305,
+      "oracle_hit1": 0.5112,
+      "ret_hit1": 0.1026,
+      "sys2_hit1": 0.4679,
+      "complementary_cases": 282
+    },
+    {
+      "comparison": "RAMEDIS ret vs LLM exact (fair)",
+      "n": 624,
+      "both": 22,
+      "ret_only": 42,
+      "sys2_only": 193,
+      "neither": 367,
+      "oracle_hit1": 0.4119,
+      "ret_hit1": 0.1026,
+      "sys2_hit1": 0.3446,
+      "complementary_cases": 235
+    },
+    {
+      "comparison": "RAMEDIS ret vs LLM multi-truth exact",
+      "n": 624,
+      "both": 22,
+      "ret_only": 42,
+      "sys2_only": 193,
+      "neither": 367,
+      "oracle_hit1": 0.4119,
+      "ret_hit1": 0.1026,
+      "sys2_hit1": 0.3446,
+      "complementary_cases": 235
+    },
+    {
+      "comparison": "HMS ret vs LLM fuzzy (standard)",
+      "n": 68,
+      "both": 1,
+      "ret_only": 4,
+      "sys2_only": 13,
+      "neither": 50,
+      "oracle_hit1": 0.2647,
+      "ret_hit1": 0.0735,
+      "sys2_hit1": 0.2059,
+      "complementary_cases": 17
+    },
+    {
+      "comparison": "HMS ret vs LLM exact (fair)",
+      "n": 68,
+      "both": 0,
+      "ret_only": 5,
+      "sys2_only": 0,
+      "neither": 63,
+      "oracle_hit1": 0.0735,
+      "ret_hit1": 0.0735,
+      "sys2_hit1": 0.0,
+      "complementary_cases": 5
+    },
+    {
+      "comparison": "HMS ret vs LLM multi-truth exact",
+      "n": 68,
+      "both": 1,
+      "ret_only": 4,
+      "sys2_only": 1,
+      "neither": 62,
+      "oracle_hit1": 0.0882,
+      "ret_hit1": 0.0735,
+      "sys2_hit1": 0.0294,
+      "complementary_cases": 5
+    },
+    {
+      "comparison": "LIRICAL ret vs LLM fuzzy (standard)",
+      "n": 370,
+      "both": 33,
+      "ret_only": 162,
+      "sys2_only": 26,
+      "neither": 149,
+      "oracle_hit1": 0.5973,
+      "ret_hit1": 0.527,
+      "sys2_hit1": 0.1595,
+      "complementary_cases": 188
+    },
+    {
+      "comparison": "LIRICAL ret vs LLM exact (fair)",
+      "n": 370,
+      "both": 8,
+      "ret_only": 187,
+      "sys2_only": 5,
+      "neither": 170,
+      "oracle_hit1": 0.5405,
+      "ret_hit1": 0.527,
+      "sys2_hit1": 0.0351,
+      "complementary_cases": 192
+    },
+    {
+      "comparison": "LIRICAL ret vs LLM multi-truth exact",
+      "n": 370,
+      "both": 8,
+      "ret_only": 187,
+      "sys2_only": 5,
+      "neither": 170,
+      "oracle_hit1": 0.5405,
+      "ret_hit1": 0.527,
+      "sys2_hit1": 0.0351,
+      "complementary_cases": 192
+    },
+    {
+      "comparison": "MME ret vs LLM fuzzy (standard)",
+      "n": 40,
+      "both": 0,
+      "ret_only": 26,
+      "sys2_only": 1,
+      "neither": 13,
+      "oracle_hit1": 0.675,
+      "ret_hit1": 0.65,
+      "sys2_hit1": 0.025,
+      "complementary_cases": 27
+    },
+    {
+      "comparison": "MME ret vs LLM exact (fair)",
+      "n": 40,
+      "both": 0,
+      "ret_only": 26,
+      "sys2_only": 0,
+      "neither": 14,
+      "oracle_hit1": 0.65,
+      "ret_hit1": 0.65,
+      "sys2_hit1": 0.0,
+      "complementary_cases": 26
+    },
+    {
+      "comparison": "MME ret vs LLM multi-truth exact",
+      "n": 40,
+      "both": 0,
+      "ret_only": 26,
+      "sys2_only": 0,
+      "neither": 14,
+      "oracle_hit1": 0.65,
+      "ret_hit1": 0.65,
+      "sys2_hit1": 0.0,
+      "complementary_cases": 26
+    }
+  ],
+  "multi_truth": [
+    {
+      "dataset": "RAMEDIS",
+      "n": 624,
+      "n_multi_omim": 0,
+      "pct_multi_omim": 0.0,
+      "retriever_hit1": 0.1026,
+      "llm_hit1_fuzzy": 0.4679,
+      "llm_hit1_exact": 0.3446,
+      "llm_hit1_multi_fuzzy": 0.4679,
+      "llm_hit1_multi_exact": 0.3446,
+      "fuzzy_inflation_pp": 12.34,
+      "winner_fuzzy": "LLM",
+      "winner_exact": "LLM"
+    },
+    {
+      "dataset": "HMS",
+      "n": 68,
+      "n_multi_omim": 24,
+      "pct_multi_omim": 0.353,
+      "retriever_hit1": 0.0735,
+      "llm_hit1_fuzzy": 0.2059,
+      "llm_hit1_exact": 0.0,
+      "llm_hit1_multi_fuzzy": 0.2353,
+      "llm_hit1_multi_exact": 0.0294,
+      "fuzzy_inflation_pp": 20.59,
+      "winner_fuzzy": "LLM",
+      "winner_exact": "RET"
+    },
+    {
+      "dataset": "LIRICAL",
+      "n": 370,
+      "n_multi_omim": 0,
+      "pct_multi_omim": 0.0,
+      "retriever_hit1": 0.527,
+      "llm_hit1_fuzzy": 0.1595,
+      "llm_hit1_exact": 0.0351,
+      "llm_hit1_multi_fuzzy": 0.1595,
+      "llm_hit1_multi_exact": 0.0351,
+      "fuzzy_inflation_pp": 12.43,
+      "winner_fuzzy": "RET",
+      "winner_exact": "RET"
+    },
+    {
+      "dataset": "MME",
+      "n": 40,
+      "n_multi_omim": 0,
+      "pct_multi_omim": 0.0,
+      "retriever_hit1": 0.65,
+      "llm_hit1_fuzzy": 0.025,
+      "llm_hit1_exact": 0.0,
+      "llm_hit1_multi_fuzzy": 0.025,
+      "llm_hit1_multi_exact": 0.0,
+      "fuzzy_inflation_pp": 2.5,
+      "winner_fuzzy": "RET",
+      "winner_exact": "RET"
+    }
+  ],
+  "macro_avg": {
+    "retriever": 0.3383,
+    "llm_fuzzy": 0.2146,
+    "llm_exact": 0.0949,
+    "llm_multi_exact": 0.1023
+  }
+}

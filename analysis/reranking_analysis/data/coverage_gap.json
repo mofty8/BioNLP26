@@ -1,0 +1,46 @@
+{
+  "phenopacket": {
+    "total": 6901,
+    "in_top1": 3536,
+    "in_top3": 4366,
+    "in_top5": 4637,
+    "in_top10": 4963,
+    "in_top50": 5623,
+    "not_in_top10": 1938,
+    "not_in_top50": 1278
+  },
+  "rarebench_subsets": {
+    "HMS": {
+      "total": 88,
+      "in_top1": 5,
+      "in_top10": 25,
+      "in_top50": 33,
+      "not_in_top10": 63,
+      "not_in_top50": 55
+    },
+    "MME": {
+      "total": 40,
+      "in_top1": 26,
+      "in_top10": 36,
+      "in_top50": 38,
+      "not_in_top10": 4,
+      "not_in_top50": 2
+    },
+    "LIRICAL": {
+      "total": 370,
+      "in_top1": 195,
+      "in_top10": 281,
+      "in_top50": 317,
+      "not_in_top10": 89,
+      "not_in_top50": 53
+    },
+    "RAMEDIS": {
+      "total": 624,
+      "in_top1": 64,
+      "in_top10": 231,
+      "in_top50": 354,
+      "not_in_top10": 393,
+      "not_in_top50": 270
+    }
+  }
+}

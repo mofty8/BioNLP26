@@ -1,0 +1,26 @@
+dataset,system,n,hit1,ci_lo,ci_hi
+PhenoPacket,Retriever (PhenoDP),6898,0.5122,0.5001,0.5242
+PhenoPacket,Reranker (G4 v7 top10),6898,0.5394,0.5275,0.5513
+PhenoPacket,LLM direct (Med42-70B),6898,0.1154,0.108,0.1231
+PhenoPacket,McNemar ret vs reranker,248,0.12096774193548387,0.0,141.004
+PhenoPacket,McNemar ret vs LLM,3489,0.8922327314416738,0.0,2145.51
+RAMEDIS,Retriever,624,0.1026,0.0785,0.1266
+RAMEDIS,LLM fuzzy (pred+resolved),624,0.4679,0.4295,0.5064
+RAMEDIS,LLM exact (pred only),624,0.3446,0.3077,0.383
+RAMEDIS,LLM multi-truth fuzzy,624,0.4679,0.4295,0.5064
+RAMEDIS,LLM multi-truth exact,624,0.3446,0.3077,0.3814
+HMS,Retriever,68,0.0735,0.0147,0.1471
+HMS,LLM fuzzy (pred+resolved),68,0.2059,0.1176,0.3088
+HMS,LLM exact (pred only),68,0.0,0.0,0.0
+HMS,LLM multi-truth fuzzy,68,0.2353,0.1324,0.3382
+HMS,LLM multi-truth exact,68,0.0294,0.0,0.0735
+LIRICAL,Retriever,370,0.527,0.4757,0.5784
+LIRICAL,LLM fuzzy (pred+resolved),370,0.1595,0.1243,0.1973
+LIRICAL,LLM exact (pred only),370,0.0351,0.0189,0.0568
+LIRICAL,LLM multi-truth fuzzy,370,0.1595,0.1216,0.1973
+LIRICAL,LLM multi-truth exact,370,0.0351,0.0189,0.0541
+MME,Retriever,40,0.65,0.5,0.8
+MME,LLM fuzzy (pred+resolved),40,0.025,0.0,0.075
+MME,LLM exact (pred only),40,0.0,0.0,0.0
+MME,LLM multi-truth fuzzy,40,0.025,0.0,0.075
+MME,LLM multi-truth exact,40,0.0,0.0,0.0

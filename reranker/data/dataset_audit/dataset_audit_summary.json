@@ -1,0 +1,441 @@
+{
+  "dataset_root": "/vol/home-vol3/wbi/elmoftym/Mofty/PhenoPacket/PP_LLM/phenopackets_extracted/0.1.25",
+  "n_cases_loaded": 8062,
+  "n_unique_patient_ids": 8062,
+  "n_duplicate_patient_ids": 0,
+  "phenotype_counts": {
+    "n": 8062,
+    "min": 1,
+    "max": 66,
+    "mean": 8.281443810468867,
+    "median": 7.0,
+    "quantiles": {
+      "0.01": 1.0,
+      "0.05": 1.0,
+      "0.1": 2.0,
+      "0.25": 4.0,
+      "0.75": 11.0,
+      "0.9": 16.0,
+      "0.95": 20.0,
+      "0.99": 29.0
+    }
+  },
+  "negative_phenotype_counts": {
+    "n": 8062,
+    "min": 0,
+    "max": 175,
+    "mean": 11.963408583478046,
+    "median": 6.0,
+    "quantiles": {
+      "0.01": 0.0,
+      "0.05": 0.0,
+      "0.1": 0.0,
+      "0.25": 1.0,
+      "0.75": 14.0,
+      "0.9": 27.0,
+      "0.95": 42.94999999999982,
+      "0.99": 126.0
+    }
+  },
+  "gene_counts": {
+    "n": 8062,
+    "min": 1,
+    "max": 1,
+    "mean": 1.0,
+    "median": 1.0,
+    "quantiles": {
+      "0.01": 1.0,
+      "0.05": 1.0,
+      "0.1": 1.0,
+      "0.25": 1.0,
+      "0.75": 1.0,
+      "0.9": 1.0,
+      "0.95": 1.0,
+      "0.99": 1.0
+    }
+  },
+  "truth_ids_per_case": {
+    "n": 8062,
+    "min": 1,
+    "max": 1,
+    "mean": 1.0,
+    "median": 1.0,
+    "quantiles": {
+      "0.01": 1.0,
+      "0.05": 1.0,
+      "0.1": 1.0,
+      "0.25": 1.0,
+      "0.75": 1.0,
+      "0.9": 1.0,
+      "0.95": 1.0,
+      "0.99": 1.0
+    }
+  },
+  "coverage": {
+    "has_negative_phenotype": 6649,
+    "has_negative_phenotype_rate": 0.82473331679484,
+    "has_description": 0,
+    "has_description_rate": 0.0,
+    "has_sex": 6977,
+    "has_sex_rate": 0.8654180104192508,
+    "has_age": 0,
+    "has_age_rate": 0.0,
+    "has_truth_label": 8062,
+    "has_truth_label_rate": 1.0
+  },
+  "truth_namespaces": {
+    "per_truth_id": {
+      "OMIM": 8062
+    },
+    "top_truth_ids": [
+      {
+        "value": "OMIM:612164",
+        "count": 462
+      },
+      {
+        "value": "OMIM:162200",
+        "count": 405
+      },
+      {
+        "value": "OMIM:613721",
+        "count": 342
+      },
+      {
+        "value": "OMIM:148050",
+        "count": 333
+      },
+      {
+        "value": "OMIM:162000",
+        "count": 175
+      },
+      {
+        "value": "OMIM:612313",
+        "count": 157
+      },
+      {
+        "value": "OMIM:142900",
+        "count": 152
+      },
+      {
+        "value": "OMIM:151660",
+        "count": 127
+      },
+      {
+        "value": "OMIM:610253",
+        "count": 124
+      },
+      {
+        "value": "OMIM:616364",
+        "count": 117
+      },
+      {
+        "value": "OMIM:117360",
+        "count": 104
+      },
+      {
+        "value": "OMIM:615471",
+        "count": 95
+      },
+      {
+        "value": "OMIM:103580",
+        "count": 82
+      },
+      {
+        "value": "OMIM:300867",
+        "count": 81
+      },
+      {
+        "value": "OMIM:616873",
+        "count": 80
+      },
+      {
+        "value": "OMIM:613826",
+        "count": 79
+      },
+      {
+        "value": "OMIM:615032",
+        "count": 78
+      },
+      {
+        "value": "OMIM:618505",
+        "count": 73
+      },
+      {
+        "value": "OMIM:201910",
+        "count": 67
+      },
+      {
+        "value": "OMIM:614800",
+        "count": 67
+      },
+      {
+        "value": "OMIM:615829",
+        "count": 65
+      },
+      {
+        "value": "OMIM:610042",
+        "count": 63
+      },
+      {
+        "value": "OMIM:147920",
+        "count": 62
+      },
+      {
+        "value": "OMIM:115200",
+        "count": 61
+      },
+      {
+        "value": "OMIM:620851",
+        "count": 61
+      },
+      {
+        "value": "OMIM:256810",
+        "count": 60
+      },
+      {
+        "value": "OMIM:122470",
+        "count": 60
+      },
+      {
+        "value": "OMIM:616362",
+        "count": 60
+      },
+      {
+        "value": "OMIM:618362",
+        "count": 60
+      },
+      {
+        "value": "OMIM:240300",
+        "count": 58
+      }
+    ],
+    "cases_with_any_non_omim_truth": 0,
+    "cases_with_only_non_omim_truth": 0,
+    "cases_with_multiple_truth_ids": 0,
+    "cases_with_multiple_truth_namespaces": 0
+  },
+  "phenodp_compatibility": {
+    "ic_type": "omim",
+    "n_phenodp_diseases": 8363,
+    "compatible_cases": 8019,
+    "compatible_case_rate": 0.9946663358967998,
+    "incompatible_cases": 43,
+    "incompatible_case_rate": 0.0053336641032001985,
+    "example_incompatible_patient_ids": [
+      "PMID_37433783_P10",
+      "PMID_37433783_P2",
+      "PMID_37433783_P7",
+      "PMID_37433783_P14",
+      "PMID_37433783_P12",
+      "PMID_37433783_P19",
+      "PMID_37433783_P9",
+      "PMID_37433783_P11",
+      "PMID_37433783_P4",
+      "PMID_37433783_P18",
+      "PMID_37433783_P8",
+      "PMID_37433783_P13",
+      "PMID_37433783_P5",
+      "PMID_37433783_P6",
+      "PMID_37433783_P15",
+      "PMID_37433783_P17",
+      "PMID_37433783_P16",
+      "PMID_37433783_P3",
+      "PMID_37433783_P1",
+      "PMID_18950917_father",
+      "PMID_14569098_F2individual2",
+      "PMID_14569098_F9individual7",
+      "PMID_14569098_F9individual2",
+      "PMID_14569098_F2individual3",
+      "PMID_14569098_F3individual3"
+    ]
+  },
+  "publication_structure": {
+    "unique_source_prefixes": 1237,
+    "top_source_prefixes": [
+      {
+        "value": "PMID_35190816",
+        "count": 462
+      },
+      {
+        "value": "PMID_33731876",
+        "count": 393
+      },
+      {
+        "value": "PMID_36446582",
+        "count": 333
+      },
+      {
+        "value": "PMID_29290338",
+        "count": 157
+      },
+      {
+        "value": "PMID_31021519",
+        "count": 157
+      },
+      {
+        "value": "PMID_26178382",
+        "count": 136
+      },
+      {
+        "value": "PMID_39013458",
+        "count": 124
+      },
+      {
+        "value": "PMID_37843397",
+        "count": 115
+      },
+      {
+        "value": "PMID_25802881",
+        "count": 105
+      },
+      {
+        "value": "PMID_33674768",
+        "count": 80
+      },
+      {
+        "value": "PMID_37196654",
+        "count": 73
+      },
+      {
+        "value": "PMID_24736735",
+        "count": 71
+      },
+      {
+        "value": "PMID_30968594",
+        "count": 67
+      },
+      {
+        "value": "PMID_37761890",
+        "count": 60
+      },
+      {
+        "value": "PMID_30580808",
+        "count": 60
+      },
+      {
+        "value": "PMID_20513137",
+        "count": 55
+      },
+      {
+        "value": "PMID_34521999",
+        "count": 52
+      },
+      {
+        "value": "PMID_37964426",
+        "count": 49
+      },
+      {
+        "value": "PMID_38991538",
+        "count": 49
+      },
+      {
+        "value": "PMID_31239556",
+        "count": 46
+      },
+      {
+        "value": "PMID_37951597",
+        "count": 45
+      },
+      {
+        "value": "PMID_32376980",
+        "count": 45
+      },
+      {
+        "value": "PMID_37962958",
+        "count": 45
+      },
+      {
+        "value": "PMID_10939567",
+        "count": 41
+      },
+      {
+        "value": "PMID_25835445",
+        "count": 41
+      }
+    ]
+  },
+  "recommended_filters": {
+    "already_excluded_by_loader": {
+      "description": "Cases with no truth IDs or no positive phenotypes are already excluded by the loader.",
+      "count_in_loaded_dataset": 0
+    },
+    "filter_non_phenodp_truth_namespace": {
+      "description": "Cases whose truth IDs are entirely outside OMIM are unfair for an OMIM-only PhenoDP retriever.",
+      "count": 0,
+      "example_patient_ids": []
+    },
+    "filter_multi_truth_cases_if_single-label_ranking_is_required": {
+      "description": "Cases with multiple truth disease IDs make top-1 single-candidate evaluation less clean.",
+      "count": 0,
+      "example_patient_ids": []
+    },
+    "consider_filtering_very_low_signal_cases_lt2_positive_hpo": {
+      "description": "Cases with fewer than 2 positive phenotypes provide extremely weak retrieval signal.",
+      "count": 506,
+      "example_patient_ids": [
+        "PMID_28239884_Family2proband",
+        "PMID_28239884_Family1proband",
+        "PMID_28239884_Family3proband",
+        "PMID_16965330_patient12",
+        "PMID_19807739_Patient8",
+        "PMID_36446582_Kutkowska-Kazmierczak2021_P20",
+        "PMID_36446582_VanDongen2019_P4",
+        "PMID_36446582_Low2016_P833",
+        "PMID_36446582_VanDongen2019_P9",
+        "PMID_36446582_Goldenberg2016_P3",
+        "PMID_36446582_Low2016_3230",
+        "PMID_36446582_Low2016_P153",
+        "PMID_36446582_Novara2017_P10",
+        "PMID_36446582_Kutkowska-Kazmierczak2021_P18",
+        "PMID_35047834_Individual2-1",
+        "PMID_23099195_Patient4",
+        "PMID_35600075_Family1individualII-2",
+        "PMID_35600075_Family1individualI-1",
+        "PMID_35600075_Family1individualII-1",
+        "PMID_35600075_Family2individualII-1",
+        "PMID_38230350_ProbandP4familyBBII-1",
+        "PMID_19864672_Patient5F",
+        "PMID_19864672_Patient2B2",
+        "PMID_37880421_Family4II-2",
+        "PMID_37880421_Family4II-1"
+      ]
+    },
+    "consider_filtering_very_low_signal_cases_lt3_positive_hpo": {
+      "description": "More conservative low-signal filter threshold using fewer than 3 positive phenotypes.",
+      "count": 1132,
+      "example_patient_ids": [
+        "PMID_28239884_Family2proband",
+        "PMID_28239884_Family1proband",
+        "PMID_28239884_Family3proband",
+        "PMID_37951597_Family22Subject2",
+        "PMID_37951597_Family23Subject2",
+        "PMID_37951597_Family22Subject1",
+        "PMID_28513613_family2",
+        "PMID_28513613_family1",
+        "PMID_30315159_PatientN",
+        "PMID_22024611_Case2",
+        "PMID_19758376_Family3individualII-5",
+        "PMID_16965330_patient9",
+        "PMID_16965330_patient4",
+        "PMID_19758376_Family2individualV-5",
+        "PMID_16965330_patient12",
+        "PMID_19807739_Patient8",
+        "PMID_16965330_patient3",
+        "PMID_18616706_Case20",
+        "PMID_16965330_patient14",
+        "PMID_36446582_Low2016_P67",
+        "PMID_36446582_Goldenberg2016_P38",
+        "PMID_36446582_Low2016_P1213",
+        "PMID_36446582_Kutkowska-Kazmierczak2021_P20",
+        "PMID_36446582_VanDongen2019_P1",
+        "PMID_36446582_VanDongen2019_P4"
+      ]
+    },
+    "do_not_filter_by_missing_description_or_demographics": {
+      "description": "Missing description, age, or sex is common and does not break retrieval; filtering on this would mainly reduce coverage without improving fairness.",
+      "count_missing_description": 8062,
+      "count_missing_sex": 1085,
+      "count_missing_age": 8062
+    }
+  }
+}

@@ -1,0 +1,37 @@
+# dx-bench configuration for Gemma 3 27B on Phenopacket benchmark
+# Usage: python -m dx_bench.runner --config config.yaml
+
+# ── Data paths ────────────────────────────────────────────────────────────
+prompt_dir: /vol/home-vol3/wbi/elmoftym/Mofty/PhenoPacket/PP2Prompt/prompts/en
+ground_truth_file: /vol/home-vol3/wbi/elmoftym/Mofty/PhenoPacket/PP2Prompt/prompts/correct_results.tsv
+benchmark_ids_file: /vol/home-vol3/wbi/elmoftym/Mofty/PhenoPacket/phenodp_gemma3_candidate_ranking/benchmark_ids_6901_phenodp_compatible_min3hpo.txt
+output_dir: /vol/home-vol3/wbi/elmoftym/Mofty/PhenoPacket/dx_bench/results
+
+# ── Model ─────────────────────────────────────────────────────────────────
+backend: vllm
+model_name: google/gemma-3-27b-it
+
+# ── Generation ────────────────────────────────────────────────────────────
+max_tokens: 512
+temperature: 0.0
+top_p: 1.0
+seed: 42
+max_diagnoses: 10
+
+# ── Execution ─────────────────────────────────────────────────────────────
+batch_size: 256
+gpu_ids: [0]                  # which GPU(s) to use — sets CUDA_VISIBLE_DEVICES
+tensor_parallel_size: 1       # must be <= len(gpu_ids); increase for multi-GPU
+gpu_memory_utilization: 0.8
+
+# ── Normalization ─────────────────────────────────────────────────────────
+fuzzy_auto_threshold: 100     # score == 100 → auto-correct
+fuzzy_review_threshold: 85    # 85 ≤ score < 100 → flagged for manual review
+
+# ── Mondo ontology ────────────────────────────────────────────────────────
+use_mondo: true
+mondo_db_path: /vol/home-vol3/wbi/elmoftym/Mofty/PhenoPacket/mondo.db
+
+# ── Run control ───────────────────────────────────────────────────────────
+resume: true
+# limit: 10  # uncomment for smoke test

@@ -1,0 +1,7 @@
+dataset,display,n_cases,n_unique_truth_diseases,cases_with_truth_in_hpoa,cases_with_truth_in_hpoa_pct,hpoa_omim_covered,hpoa_omim_total,hpoa_omim_coverage_pct,hpoa_orpha_covered,hpoa_orpha_total,hpoa_orpha_coverage_pct,hpoa_decipher_covered,n_unique_hpo_terms_used,hpoa_hpo_terms_total,hpoa_hpo_term_coverage_pct
+phenopacket_all,Phenopacket (all),8062,520,8019,99.47,517,8356,6.187,0,4314,0.0,0,3368,11323,29.012
+phenopacket_6901,"Phenopacket (6,901)",6901,500,6901,100.0,500,8356,5.984,0,4314,0.0,0,3341,11323,28.8
+RAMEDIS,RAMEDIS,624,160,624,100.0,74,8356,0.886,57,4314,1.321,0,480,11323,4.027
+LIRICAL,LIRICAL,370,411,370,100.0,252,8356,3.016,133,4314,3.083,0,1663,11323,14.493
+HMS,HMS,88,101,87,98.86,49,8356,0.586,43,4314,0.997,0,497,11323,4.23
+MME,MME,40,28,40,100.0,17,8356,0.203,10,4314,0.232,0,253,11323,2.199

@@ -1,0 +1,7 @@
+dataset,display,origin,n_cases,pos_hpo_min,pos_hpo_p05,pos_hpo_p25,pos_hpo_p50,pos_hpo_p75,pos_hpo_p95,pos_hpo_max,pos_hpo_mean
+phenopacket_all,Phenopacket (all),Literature,8062,1,1.0,4.0,7.0,11.0,20.0,66,8.28
+phenopacket_6901,"Phenopacket (6,901)",Literature,6901,3,3.0,5.0,8.0,12.0,21.0,66,9.38
+RAMEDIS,RAMEDIS,Structured,624,3,3.0,6.0,9.0,12.0,21.9,46,10.08
+LIRICAL,LIRICAL,Literature,370,3,4.0,7.0,11.5,17.0,30.0,96,14.26
+HMS,HMS,Clinical,88,5,8.0,11.0,17.5,25.2,40.5,54,19.43
+MME,MME,Clinical,40,3,4.0,8.0,10.5,15.2,24.0,26,12.15

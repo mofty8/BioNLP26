@@ -1,0 +1,16 @@
+category,n_cases,n_non_ret,non_ret_rate,median_hpoa
+Immunodeficiency,162,68,0.4198,17.0
+Epilepsy / Neurological,1193,480,0.4023,24
+Renal / Nephrotic,161,50,0.3106,16
+Skeletal dysplasia,167,43,0.2575,84
+Other,3375,560,0.1659,54
+Liver / Hepatic,10,1,0.1,39.0
+Intellectual disability,562,56,0.0996,76.0
+Cardiomyopathy / Arrhythmia,82,3,0.0366,11.0
+Mitochondrial,209,4,0.0191,113
+Vision / Retinal,121,2,0.0165,43
+Marfan / Connective tissue,311,5,0.0161,59
+Muscular dystrophy / Myopathy,151,2,0.0132,41
+Rasopathy / RAS pathway,316,4,0.0127,56.0
+Hearing loss,5,0,0.0,14
+Endocrine / Hormonal,74,0,0.0,30.0

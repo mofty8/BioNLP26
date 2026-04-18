@@ -1,0 +1,219 @@
+patient_id,truth_label,from_rank,score_gap,n_pos_hpo,n_neg_hpo
+PMID_10077612_FamilyAIII-3,Holt-Oram syndrome,2,0.0023,3,9
+PMID_10077612_nan,Holt-Oram syndrome,2,0.0023,3,7
+PMID_10571775_KSN-II-1,Distal renal tubular acidosis 4 with hemolytic anemia,3,0.0061,8,1
+PMID_10571775_YAT-II-1,Distal renal tubular acidosis 4 with hemolytic anemia,3,0.0061,8,1
+PMID_10756346_PatientD22,Marfan syndrome,5,0.0228,5,13
+PMID_11175294_PatientD13,Marfan syndrome,2,0.007,6,12
+PMID_11179005_Family3,Orofaciodigital syndrome I,2,0.0052,4,12
+PMID_12203992_PatientD15,Marfan syndrome,2,0.0168,7,19
+PMID_12203992_PatientD19,Marfan syndrome,2,0.073,5,21
+PMID_12203992_PatientD21,Marfan syndrome,3,0.0865,5,22
+PMID_12203992_PatientD67,Marfan syndrome,2,0.0364,11,16
+PMID_12789647_K11III-1,Holt-Oram syndrome,2,0.0532,3,14
+PMID_12789647_K15III-1,Holt-Oram syndrome,8,0.0211,3,10
+PMID_12789647_K15III-2,Holt-Oram syndrome,4,0.01,4,9
+PMID_12789647_K16II-1,Holt-Oram syndrome,3,0.0106,4,12
+PMID_12789647_K16III-3,Holt-Oram syndrome,2,0.0331,6,9
+PMID_12789647_K16IV-1,Holt-Oram syndrome,2,0.0046,4,12
+PMID_12789647_K1II-2,Holt-Oram syndrome,7,0.0037,3,13
+PMID_12789647_K4II-1,Holt-Oram syndrome,3,0.0031,3,14
+PMID_12789647_K4III-2,Holt-Oram syndrome,10,0.0155,3,11
+PMID_12789647_K4IV-1,Holt-Oram syndrome,2,0.0091,3,14
+PMID_12789647_K9II-3,Holt-Oram syndrome,3,0.0254,4,10
+PMID_15710732_15montholdmalepatient,Holt-Oram syndrome,2,0.0021,6,7
+PMID_15911822_Patient9,Neurodegeneration with brain iron accumulation 1,2,0.0123,6,13
+PMID_16429406_firstpatient,"Fanconi anemia, complementation group C",7,0.0266,3,1
+PMID_16429406_secondpatient,"Fanconi anemia, complementation group C",3,0.0016,9,1
+PMID_16917909_603-1,Holt-Oram syndrome,3,0.0356,3,9
+PMID_16917909_619-1,Holt-Oram syndrome,2,0.054,4,9
+PMID_16917909_649-1,Holt-Oram syndrome,3,0.021,5,8
+PMID_17460694_F010191,"Fanconi anemia, complementation group I",5,0.0012,5,1
+PMID_17534187_HH20,Holt-Oram syndrome,3,0.0185,4,7
+PMID_17661815_PatientBIII-1,CHARGE syndrome,2,0.0027,11,13
+PMID_18351627_PatientII-2,Holt-Oram syndrome,6,0.0089,4,12
+PMID_18669544_FO-04,Bardet-Biedl syndrome 1,2,0.0091,5,3
+PMID_18669544_FO-07,Bardet-Biedl syndrome 1,2,0.0182,5,2
+PMID_18669544_FO-10,Bardet-Biedl syndrome 1,2,0.0241,4,4
+PMID_19781681_ProbandP2-2,"Osteogenesis imperfecta, type IX",2,0.0027,5,3
+PMID_20513137_individualGOD_GSM_GSM492703,"Neurofibromatosis, type 1",2,0.112,3,2
+PMID_20513137_individualGUI_GSM_GSM492741,"Neurofibromatosis, type 1",2,0.0436,4,1
+PMID_20513137_individualLAP_GSM_GSM492706,"Neurofibromatosis, type 1",2,0.0408,4,2
+PMID_20513137_individualN1666_GSM_GSM492729,"Neurofibromatosis, type 1",4,0.079,3,2
+PMID_20513137_individualN1918_GSM_GSM492731,"Neurofibromatosis, type 1",4,0.079,3,2
+PMID_20513137_individualN2456_GSM_GSM492740,"Neurofibromatosis, type 1",4,0.079,3,2
+PMID_20513137_individualNF00085_GSM_GSM492692,"Neurofibromatosis, type 1",2,0.0196,3,2
+PMID_20513137_individualNF00234_GSM_GSM492684,"Neurofibromatosis, type 1",2,0.0135,3,3
+PMID_20513137_individualNF00358_GSM_GSM492685,"Neurofibromatosis, type 1",3,0.0248,3,2
+PMID_20513137_individualNF00437_GSM_GSM492687,"Neurofibromatosis, type 1",2,0.0192,5,2
+PMID_20513137_individualNF00663_GSM_GSM492680,"Neurofibromatosis, type 1",2,0.0483,4,2
+PMID_20513137_individualNF01053_GSM_GSM492693,"Neurofibromatosis, type 1",2,0.0192,5,2
+PMID_20513137_individualNF01094_GSM_GSM492745,"Neurofibromatosis, type 1",2,0.0192,5,2
+PMID_20513137_individualNF01152_GSM_GSM492694,"Neurofibromatosis, type 1",2,0.0135,3,1
+PMID_20513137_individualNF01465_GSM_GSM492681,"Neurofibromatosis, type 1",2,0.0014,5,1
+PMID_20513137_individualNF01507_GSM_GSM492683,"Neurofibromatosis, type 1",2,0.0483,4,2
+PMID_20513137_individualNF01510_GSM_GSM492691,"Neurofibromatosis, type 1",2,0.0408,4,2
+PMID_20513137_individualNF01585_GSM_GSM492695,"Neurofibromatosis, type 1",2,0.0014,5,1
+PMID_20513137_individualRUA_GSM_GSM492698,"Neurofibromatosis, type 1",4,0.079,3,3
+PMID_20513137_individualVID_GSM_GSM492707,"Neurofibromatosis, type 1",2,0.112,3,2
+PMID_20519243_3,Holt-Oram syndrome,3,0.075,3,9
+PMID_22353940_cousinV-3,Joubert syndrome 10,2,0.0108,12,12
+PMID_22772371_MS239IV22,Loeys-Dietz syndrome 4,2,0.0113,3,16
+PMID_22772371_TAA288III8,Loeys-Dietz syndrome 4,3,0.0578,5,14
+PMID_23335590_Subject3301,Craniofrontonasal dysplasia,7,0.0044,5,14
+PMID_24321194_II3,"Hypomagnesemia 3, renal",3,0.0074,5,3
+PMID_24321194_II6,"Hypomagnesemia 3, renal",3,0.0293,4,4
+PMID_24321194_II8,"Hypomagnesemia 3, renal",3,0.0293,4,4
+PMID_24736735_G038,Greig cephalopolysyndactyly syndrome,2,0.0761,4,8
+PMID_24736735_G043_Father,Greig cephalopolysyndactyly syndrome,3,0.0196,4,7
+PMID_24736735_G079,Greig cephalopolysyndactyly syndrome,2,0.0132,6,6
+PMID_24736735_G109,Greig cephalopolysyndactyly syndrome,5,0.0422,3,8
+PMID_24736735_G115,Greig cephalopolysyndactyly syndrome,2,0.0761,4,12
+PMID_24736735_G14083,Greig cephalopolysyndactyly syndrome,4,0.0498,4,9
+PMID_24736735_G14331,Greig cephalopolysyndactyly syndrome,2,0.0183,8,7
+PMID_25511235_B1-1,HMG-CoA synthase-2 deficiency,2,0.015,4,0
+PMID_25511235_B2-1,HMG-CoA synthase-2 deficiency,2,0.015,4,0
+PMID_25511235_B3-1,HMG-CoA synthase-2 deficiency,2,0.015,4,0
+PMID_25511235_B4-1,HMG-CoA synthase-2 deficiency,2,0.015,4,0
+PMID_25511235_B5-1,HMG-CoA synthase-2 deficiency,2,0.015,4,0
+PMID_25511235_B6-1,HMG-CoA synthase-2 deficiency,2,0.015,4,0
+PMID_26178382_CARD-CFC,"Neurofibromatosis, type 1",3,0.0345,3,8
+PMID_26178382_CARD-CFE,"Neurofibromatosis, type 1",4,0.0391,4,7
+PMID_26178382_MADR-690-I2,"Neurofibromatosis, type 1",3,0.0345,3,12
+PMID_26178382_MADR-690-II2,"Neurofibromatosis, type 1",3,0.0345,3,12
+PMID_26178382_MADR-694-II1,"Neurofibromatosis, type 1",3,0.0345,3,12
+PMID_26178382_MADR-694-II2,"Neurofibromatosis, type 1",3,0.0345,3,12
+PMID_26178382_UAB-R008-II1,"Neurofibromatosis, type 1",3,0.0248,3,11
+PMID_26178382_UAB-R4174-II2,"Neurofibromatosis, type 1",2,0.0166,4,10
+PMID_26178382_UAB-R4835,"Neurofibromatosis, type 1",4,0.0509,3,13
+PMID_26178382_UAB-R7641-I2,"Neurofibromatosis, type 1",2,0.0196,3,11
+PMID_26178382_UAB-R7705,"Neurofibromatosis, type 1",3,0.0248,3,11
+PMID_26178382_UAB-R8216,"Neurofibromatosis, type 1",3,0.0248,3,11
+PMID_26567009_malechild,Krabbe disease,3,0.0192,8,0
+PMID_27148570_Patient5,White-Sutton syndrome,7,0.015,4,1
+PMID_27062503_P1,"Spinocerebellar ataxia 29, congenital nonprogressive",2,0.0252,10,10
+PMID_27062503_P2,"Spinocerebellar ataxia 29, congenital nonprogressive",2,0.0247,9,10
+PMID_28074573_KK1,Noonan syndrome 1,3,0.0183,9,0
+PMID_29030856_PatientCase,HMG-CoA synthase-2 deficiency,2,0.0017,15,2
+PMID_29050284_probandII-5,"Albinism, oculocutaneous, type II",7,0.0387,7,0
+PMID_29110636_probandVMFS,Townes-Brocks syndrome 1,8,0.0062,19,3
+PMID_29196670_Patient1,Tuberous sclerosis-2,2,0.0021,8,3
+PMID_29196670_Patient11,Tuberous sclerosis-2,2,0.0014,4,5
+PMID_29196670_Patient19,Tuberous sclerosis-2,2,0.0014,3,8
+PMID_29196670_Patient2,Tuberous sclerosis-2,2,0.0022,10,1
+PMID_29196670_Patient5,Tuberous sclerosis-2,2,0.0022,9,2
+PMID_29196670_Patient9,Tuberous sclerosis-2,2,0.0015,5,6
+PMID_29290338_FamilyBRA-R38individualRS,"Neurofibromatosis, type 1",2,0.0153,6,14
+PMID_29290338_FamilyCAR-R18010M61individualF,"Neurofibromatosis, type 1",4,0.0509,3,7
+PMID_29290338_FamilyMAD-R3409individualRS,"Neurofibromatosis, type 1",3,0.007,3,20
+PMID_29290338_FamilyMAD-R37001individualRS,"Neurofibromatosis, type 1",2,0.0317,5,18
+PMID_29290338_FamilyMAD-R3793individualRS,"Neurofibromatosis, type 1",2,0.0336,6,17
+PMID_29290338_FamilyMAN-R48902G-MindividualF,"Neurofibromatosis, type 1",2,0.0135,3,9
+PMID_29290338_FamilyMAN-R48902GindividualF,"Neurofibromatosis, type 1",2,0.0219,5,19
+PMID_29290338_FamilyMAN-R88088G-MindividualF,"Neurofibromatosis, type 1",3,0.0509,4,16
+PMID_29290338_FamilyMAN-R88088GindividualF,"Neurofibromatosis, type 1",2,0.0197,6,16
+PMID_29290338_FamilyMAN-R98522GindividualRS,"Neurofibromatosis, type 1",3,0.0133,4,19
+PMID_29290338_FamilyMIL-R168individualRS,"Neurofibromatosis, type 1",2,0.033,5,20
+PMID_29290338_FamilyMIL-R192982-SindividualF,"Neurofibromatosis, type 1",4,0.0641,5,11
+PMID_29290338_FamilyPAD-R100individualRS,"Neurofibromatosis, type 1",3,0.0456,6,17
+PMID_29290338_FamilyPAD-R200individualRS,"Neurofibromatosis, type 1",4,0.0641,5,19
+PMID_29290338_FamilyPAD-R400individualRSmother-negfathernotavailable,"Neurofibromatosis, type 1",3,0.0345,3,20
+PMID_29290338_FamilyPAD-R500-C1individualF,"Neurofibromatosis, type 1",3,0.03,6,18
+PMID_29290338_FamilyPAD-R500-C2individualF,"Neurofibromatosis, type 1",3,0.0345,3,19
+PMID_29290338_FamilyPAD-R500individualF,"Neurofibromatosis, type 1",3,0.0509,4,19
+PMID_29290338_FamilyROT-R17435individualPrS,"Neurofibromatosis, type 1",3,0.0345,3,20
+PMID_29290338_FamilyROT-R1CMULindividualF,"Neurofibromatosis, type 1",4,0.0641,5,20
+PMID_29290338_FamilyROT-R37511individualF,"Neurofibromatosis, type 1",2,0.0282,5,16
+PMID_29290338_FamilyROT-R9008individualF,"Neurofibromatosis, type 1",2,0.0192,5,9
+PMID_29290338_FamilySGR-REA-MindividualF,"Neurofibromatosis, type 1",2,0.0107,4,19
+PMID_29290338_FamilySGR-RGEAindividualRS,"Neurofibromatosis, type 1",4,0.0432,3,19
+PMID_29290338_FamilySGR-RSOindividualRS,"Neurofibromatosis, type 1",2,0.031,6,16
+PMID_29290338_FamilyUAB-R0075individualPrS,"Neurofibromatosis, type 1",3,0.0345,3,19
+PMID_29290338_FamilyUAB-R01701FN103individualF,"Neurofibromatosis, type 1",3,0.0164,5,10
+PMID_29290338_FamilyUAB-R0713individualRS,"Neurofibromatosis, type 1",2,0.0261,5,10
+PMID_29290338_FamilyUAB-R1037-S1individualF,"Neurofibromatosis, type 1",2,0.0454,3,10
+PMID_29290338_FamilyUAB-R1037individualF,"Neurofibromatosis, type 1",4,0.0391,4,10
+PMID_29290338_FamilyUAB-R1928individualRS,"Neurofibromatosis, type 1",3,0.025,6,18
+PMID_29290338_FamilyUAB-R2355individualF,"Neurofibromatosis, type 1",3,0.03,6,19
+PMID_29290338_FamilyUAB-R289individualRS,"Neurofibromatosis, type 1",3,0.0345,3,19
+PMID_29290338_FamilyUAB-R2934individualF,"Neurofibromatosis, type 1",3,0.025,6,19
+PMID_29290338_FamilyUAB-R3027individualRS,"Neurofibromatosis, type 1",2,0.0483,4,18
+PMID_29290338_FamilyUAB-R3152individualRS,"Neurofibromatosis, type 1",3,0.0345,3,19
+PMID_29290338_FamilyUAB-R3397individualRS,"Neurofibromatosis, type 1",4,0.0432,3,19
+PMID_29290338_FamilyUAB-R3508-MindividualF,"Neurofibromatosis, type 1",4,0.0509,3,10
+PMID_29290338_FamilyUAB-R3618individualF,"Neurofibromatosis, type 1",4,0.0641,5,13
+PMID_29290338_FamilyUAB-R3714individualPrS,"Neurofibromatosis, type 1",3,0.0033,5,9
+PMID_29290338_FamilyUAB-R38601FN203individualRS,"Neurofibromatosis, type 1",3,0.0345,3,1
+PMID_29290338_FamilyUAB-R4624individualRS,"Neurofibromatosis, type 1",3,0.0234,5,16
+PMID_29290338_FamilyUAB-R4676individualRS,"Neurofibromatosis, type 1",3,0.0509,4,18
+PMID_29290338_FamilyUAB-R4965individualF,"Neurofibromatosis, type 1",3,0.025,6,18
+PMID_29290338_FamilyUAB-R5001individualRS,"Neurofibromatosis, type 1",3,0.0234,5,18
+PMID_29290338_FamilyUAB-R5776individualRS,"Neurofibromatosis, type 1",2,0.0173,5,18
+PMID_29290338_FamilyUAB-R5794individualRS,"Neurofibromatosis, type 1",3,0.0234,5,8
+PMID_29290338_FamilyUAB-R7447individualRS,"Neurofibromatosis, type 1",4,0.0432,3,20
+PMID_29290338_FamilyUAB-R8357individualRS,"Neurofibromatosis, type 1",3,0.0345,3,14
+PMID_29290338_FamilyUAB-R8597individualF,"Neurofibromatosis, type 1",3,0.0133,4,19
+PMID_29290338_FamilyUAB-R9324individualF,"Neurofibromatosis, type 1",3,0.0345,3,20
+PMID_29290338_FamilyUAB-R9402individualRS,"Neurofibromatosis, type 1",4,0.0509,3,22
+PMID_29290338_FamilyUG-R004individualRS,"Neurofibromatosis, type 1",2,0.0261,5,19
+PMID_29290338_FamilyUG-R01-S2individualF,"Neurofibromatosis, type 1",2,0.0039,5,7
+PMID_29290338_FamilyUG-R0781-SindividualF,"Neurofibromatosis, type 1",2,0.0135,3,18
+PMID_29290338_FamilyUG-R0781individualF,"Neurofibromatosis, type 1",4,0.079,3,20
+PMID_29290338_FamilyUG-R126individualRS,"Neurofibromatosis, type 1",2,0.0135,3,19
+PMID_29290338_FamilyUG-R9821individualF,"Neurofibromatosis, type 1",2,0.0192,5,18
+PMID_29290338_FamilyUG-R9981individualRS,"Neurofibromatosis, type 1",2,0.0014,5,17
+PMID_29506490_Patient47,Rubinstein-Taybi syndrome 2,2,0.0089,5,6
+PMID_29506490_Patient57,Rubinstein-Taybi syndrome 2,2,0.0083,4,11
+PMID_29925855_P4,"Spinocerebellar ataxia 29, congenital nonprogressive",3,0.0043,3,6
+PMID_30113454_index,"Cockayne syndrome, type B",2,0.0254,19,3
+PMID_30580808_Ind-14-Fam-14,Coffin-Siris syndrome 8,3,0.0008,9,60
+PMID_31015584_Individual1,"Short stature, optic nerve atrophy, and Pelger-Huet anomaly",3,0.0192,20,3
+PMID_31015584_Individual3,"Short stature, optic nerve atrophy, and Pelger-Huet anomaly",4,0.0014,11,3
+PMID_31282990_Case1,Kabuki Syndrome 1,5,0.0118,8,2
+PMID_31282990_Case2,Kabuki Syndrome 1,3,0.0343,7,4
+PMID_31325447_Case1,"Coenzyme Q10 deficiency, primary, 7",4,0.0158,13,1
+PMID_31569402_Family5PatientII,Loeys-Dietz syndrome 1,4,0.0068,8,37
+PMID_31569402_Family7PatientI,Loeys-Dietz syndrome 1,2,0.0131,21,23
+PMID_31721432_patient25,Intellectual developmental disorder with autism and macrocephaly,2,0.0146,4,17
+PMID_31721432_patient8,Intellectual developmental disorder with autism and macrocephaly,2,0.0471,4,14
+PMID_31949313_F1II1,Kabuki Syndrome 1,2,0.0276,3,10
+PMID_33674768_Patient14-Lederer2012AmJHumGenet1732912,Kabuki syndrome 2,2,0.0134,13,16
+PMID_33674768_Patient18-Bgershausen2016HumMutat37847,Kabuki syndrome 2,2,0.0115,9,10
+PMID_33731876_fam64,Developmental and epileptic encephalopathy 11,2,0.0136,4,1
+PMID_35148930_Casereport,"Spinocerebellar ataxia 29, congenital nonprogressive",2,0.0028,13,7
+PMID_35190816_STX_EG1684P,Developmental and epileptic encephalopathy 4,10,0.006,11,0
+PMID_36051692_youngerbrother,Aarskog-Scott syndrome,2,0.0062,11,4
+PMID_36189931_Individual29,"Ehlers-Danlos syndrome, vascular type",3,0.0508,3,10
+PMID_36189931_Individual7,"Ehlers-Danlos syndrome, vascular type",2,0.0248,3,10
+PMID_36303223_Proband15fromPMID12001203,Sulfite oxidase deficiency,4,0.0014,4,5
+PMID_36303223_Proband17fromPMID15952210,Sulfite oxidase deficiency,8,0.0392,8,5
+PMID_36303223_Proband21fromPMID27289259,Sulfite oxidase deficiency,9,0.035,9,2
+PMID_36303223_Proband22fromPMID27289259,Sulfite oxidase deficiency,9,0.035,9,2
+PMID_36303223_Proband28fromPMID33335014,Sulfite oxidase deficiency,6,0.0852,6,6
+PMID_36303223_Proband2fromPMID9600976,Sulfite oxidase deficiency,3,0.031,10,2
+PMID_36303223_Proband32fromPMID34025712,Sulfite oxidase deficiency,7,0.0395,5,7
+PMID_36446582_Goldenberg2016_P20,KBG syndrome,2,0.0125,3,1
+PMID_36446582_Low2016_P45,KBG syndrome,2,0.0125,3,7
+PMID_36446582_Low2016_P56,KBG syndrome,2,0.0125,3,7
+PMID_36659944_Patient,"Neurofibromatosis, type 1",3,0.0234,5,9
+PMID_38596211_individual1,"Neurofibromatosis, type 1",2,0.0258,6,9
+PMID_38596211_individual12,"Neurofibromatosis, type 1",3,0.0345,3,11
+PMID_38596211_individual14,"Neurofibromatosis, type 1",3,0.0509,4,12
+PMID_38596211_individual15,"Neurofibromatosis, type 1",3,0.0234,5,10
+PMID_38596211_individual16,"Neurofibromatosis, type 1",3,0.0168,6,10
+PMID_38596211_individual3,"Neurofibromatosis, type 1",3,0.0152,6,10
+PMID_39013458_individualDiagnostic110005,Kleefstra syndrome 1,3,0.0309,3,47
+PMID_39013458_individualKS110020,Kleefstra syndrome 1,2,0.0119,6,37
+PMID_39013458_individualKS110084,Kleefstra syndrome 1,2,0.0121,7,34
+PMID_39013458_individualVUSM110017Bdaugther,Kleefstra syndrome 1,2,0.0058,9,42
+PMID_39013458_individualVUSM110025,Kleefstra syndrome 1,5,0.007,5,46
+PMID_39013458_individualVUSM110047,Kleefstra syndrome 1,2,0.0224,5,47
+PMID_39013458_individualVUSM110058,Kleefstra syndrome 1,4,0.0411,4,38
+PMID_39069253_individual19-Kruszkaetal,Weiss-Kruszka syndrome,2,0.0152,6,22
+PMID_39069253_individual37-Bradyetal,Weiss-Kruszka syndrome,2,0.0005,8,4
+PMID_39143735_CasePresentation,HMG-CoA synthase-2 deficiency,4,0.0137,6,2
+PMID_7607663_Patient0541,"Neurofibromatosis, type 1",4,0.0641,4,10
+PMID_7607663_Patient0542,"Neurofibromatosis, type 1",3,0.0139,4,10
+PMID_8664912_Patient0544twin1,"Neurofibromatosis, type 1",3,0.025,6,9
+PMID_8664912_Patient0544twin2,"Neurofibromatosis, type 1",4,0.0641,5,10
+PMID_9312167_AIII2,Distal renal tubular acidosis 1,3,0.0098,3,4

@@ -1,0 +1,8 @@
+dataset_key,dataset_label,family,best_top1_model,best_top1_score,best_top10_model,best_top10_score
+phenopacket,Phenopacket,core_suite,llama3-med42-70b,0.11539576688895332,llama3-med42-70b,0.2776167004928965
+HMS,RareBench HMS,core_suite,llama3-med42-70b,0.20588235294117646,gemma-3-27b-it,0.36764705882352944
+LIRICAL,RareBench LIRICAL,core_suite,llama3-med42-70b,0.15945945945945947,llama3-med42-70b,0.3324324324324324
+MME,RareBench MME,core_suite,llama3-med42-70b; medgemma-27b-it,0.025,gemma-3-27b-it; medgemma-27b-it,0.05
+RAMEDIS,RareBench RAMEDIS,core_suite,llama3-med42-70b,0.46794871794871795,llama3-med42-70b,0.7243589743589743
+mygene2,MyGene2,archive2_suite,medgemma-27b-it; qwen2.5-32b-instruct,0.02054794520547945,llama3-med42-70b,0.2054794520547945
+allG2P,allG2P,archive2_suite,qwen2.5-32b-instruct,0.04555913483663138,qwen2.5-32b-instruct,0.10400368154624942

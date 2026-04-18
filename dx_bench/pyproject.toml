@@ -1,0 +1,16 @@
+[project]
+name = "dx-bench"
+version = "0.1.0"
+description = "Benchmarking pipeline for LLM-based differential diagnosis on Phenopacket cases"
+requires-python = ">=3.11"
+dependencies = [
+    "vllm>=0.13.0",
+    "pydantic>=2.0",
+    "rapidfuzz>=3.0",
+    "oaklib>=0.1.0",
+    "pyyaml>=6.0",
+    "thefuzz>=0.22",
+]
+
+[project.scripts]
+dx-bench = "dx_bench.runner:main"

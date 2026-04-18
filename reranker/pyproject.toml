@@ -1,0 +1,16 @@
+[project]
+name = "phenodp-gemma3-candidate-ranking"
+version = "0.1.0"
+description = "PhenoDP retrieval plus Gemma 3 reranking benchmark for phenopacket candidate ranking."
+requires-python = ">=3.12"
+dependencies = [
+  "pandas>=2.3",
+  "pyhpo>=4.0.0",
+  "rapidfuzz>=3.14",
+  "torch>=2.9.0",
+  "tqdm>=4.67",
+  "vllm>=0.13.0",
+]
+
+[tool.setuptools]
+packages = ["phenodp_gemma3_pipeline"]

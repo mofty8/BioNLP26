@@ -1,0 +1,16 @@
+category,n_diseases,n_cases,n_promoted,n_demoted,promo_rate,demo_rate,net_rate
+Rasopathy / RAS pathway,7,299,104,2,0.3478,0.0067,0.3411
+Holt-Oram family,1,100,20,0,0.2,0.0,0.2
+Renal / Nephrotic,7,105,6,0,0.0571,0.0,0.0571
+Marfan / Connective tissue,13,283,12,1,0.0424,0.0035,0.0389
+Other,209,2727,67,10,0.0246,0.0037,0.0209
+Intellectual disability,16,237,2,0,0.0084,0.0,0.0084
+Epilepsy / Neurological,22,325,2,1,0.0062,0.0031,0.0031
+Amyloidosis,3,16,0,0,0.0,0.0,0.0
+Immunodeficiency,9,48,0,0,0.0,0.0,0.0
+Cardiomyopathy,5,62,0,0,0.0,0.0,0.0
+Muscular dystrophy,12,142,0,0,0.0,0.0,0.0
+Vision / Retinal,3,81,0,0,0.0,0.0,0.0
+Mitochondrial,6,194,0,1,0.0,0.0052,-0.0052
+Skeletal dysplasia,10,94,1,5,0.0106,0.0532,-0.0426
+Aarskog-Scott family,1,48,1,15,0.0208,0.3125,-0.2917

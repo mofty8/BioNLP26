@@ -1,0 +1,44 @@
+patient_id,model,truth_label,llm_top1_id,llm_top1_name,score_gap,n_pos_hpo,n_neg_hpo
+PMID_10580070_FamilyAindividualIII-13,gemma3-27b,"Cardiomyopathy, dilated, 1A",OMIM:163800,Sick sinus syndrome 2,0.0521,3,12
+PMID_8188302_IV1,gemma3-27b,"Ectopia lentis, familial",OMIM:154700,Marfan syndrome,0.0703,5,9
+PMID_8188302_IV3,gemma3-27b,"Ectopia lentis, familial",OMIM:154700,Marfan syndrome,0.0555,3,11
+PMID_14560308_Patient27,gemma4-31b,Aarskog-Scott syndrome,OMIM:227330,"Faciodigitogenital syndrome, autosomal recessive",0.0278,15,8
+PMID_14560308_Patient50,gemma4-31b,Aarskog-Scott syndrome,OMIM:227330,"Faciodigitogenital syndrome, autosomal recessive",0.046,14,5
+PMID_14560308_Patient65,gemma4-31b,Aarskog-Scott syndrome,OMIM:227330,"Faciodigitogenital syndrome, autosomal recessive",0.0612,11,11
+PMID_14560308_Patient73,gemma4-31b,Aarskog-Scott syndrome,OMIM:227330,"Faciodigitogenital syndrome, autosomal recessive",0.0243,14,10
+PMID_14560308_Patient90,gemma4-31b,Aarskog-Scott syndrome,OMIM:227330,"Faciodigitogenital syndrome, autosomal recessive",0.032,15,8
+PMID_14560308_Patient91,gemma4-31b,Aarskog-Scott syndrome,OMIM:227330,"Faciodigitogenital syndrome, autosomal recessive",0.032,15,8
+PMID_20082460_case1,gemma4-31b,Aarskog-Scott syndrome,OMIM:227330,"Faciodigitogenital syndrome, autosomal recessive",0.0623,13,15
+PMID_20082460_case10,gemma4-31b,Aarskog-Scott syndrome,OMIM:227330,"Faciodigitogenital syndrome, autosomal recessive",0.1081,15,12
+PMID_20082460_case11,gemma4-31b,Aarskog-Scott syndrome,OMIM:227330,"Faciodigitogenital syndrome, autosomal recessive",0.0982,16,12
+PMID_20082460_case2,gemma4-31b,Aarskog-Scott syndrome,OMIM:227330,"Faciodigitogenital syndrome, autosomal recessive",0.0843,12,16
+PMID_20082460_case3,gemma4-31b,Aarskog-Scott syndrome,OMIM:227330,"Faciodigitogenital syndrome, autosomal recessive",0.1052,17,10
+PMID_20082460_case4,gemma4-31b,Aarskog-Scott syndrome,OMIM:227330,"Faciodigitogenital syndrome, autosomal recessive",0.0026,12,16
+PMID_20082460_case8,gemma4-31b,Aarskog-Scott syndrome,OMIM:227330,"Faciodigitogenital syndrome, autosomal recessive",0.0456,12,16
+PMID_20082460_case9,gemma4-31b,Aarskog-Scott syndrome,OMIM:227330,"Faciodigitogenital syndrome, autosomal recessive",0.0683,13,15
+PMID_22541558_individualC-1,gemma4-31b,"Acrofacial dysostosis 1, Nager type",OMIM:614083,"Fanconi anemia, complementation group L",0.0666,8,6
+PMID_22541558_individualD-1,gemma4-31b,"Acrofacial dysostosis 1, Nager type",OMIM:619325,Coffin-Siris syndrome 12,0.0936,9,9
+PMID_22541558_individualL-1,gemma4-31b,"Acrofacial dysostosis 1, Nager type",OMIM:618821,Rhizomelic limb shortening with dysmorphic features,0.0574,5,3
+PMID_23099195_Patient5,gemma4-31b,Citrullinemia,OMIM:207900,Argininosuccinic aciduria,0.064,7,1
+PMID_23326516_12-year-oldboy,gemma4-31b,"Myasthenic syndrome, congenital, 9, associated with acetylcholine receptor deficiency",OMIM:254300,"Myasthenia, limb-girdle, familial",0.164,10,6
+PMID_24259288_IV-3,gemma4-31b,Multiple congenital anomalies-hypotonia-seizures syndrome 2,OMIM:301072,Neurodevelopmental disorder with epilepsy and hemochromatosis,0.0734,17,0
+PMID_24962763_4-year-oldBurmesegirl,gemma4-31b,"Cutis laxa, autosomal recessive, type IA",OMIM:613177,"Cutis laxa, autosomal recessive, type IC",0.0132,8,0
+PMID_28137957_HIH22132II1,gemma4-31b,"Spastic paraplegia 78, autosomal recessive",OMIM:614298,Neurodegeneration with brain iron accumulation 4,0.0652,14,5
+PMID_30368668_IndividualNS535,gemma4-31b,Noonan syndrome 2,OMIM:616564,Noonan syndrome 10,0.0038,20,15
+PMID_30859559_PatientO1409410,gemma4-31b,Noonan syndrome 2,OMIM:619745,Noonan syndrome 14,0.0454,20,47
+PMID_31792352_proband,gemma4-31b,"Cutis laxa, autosomal recessive, type ID",OMIM:614816,Loeys-Dietz syndrome 4,0.2024,19,7
+PMID_36190515_Patient2,gemma4-31b,Multiple mitochondrial dysfunctions syndrome 7,OMIM:620398,Glycine encephalopathy 2,0.2088,14,0
+PMID_37352860_Individual1A,gemma4-31b,"Spondyloepimetaphyseal dysplasia, Guo-Campeau type",OMIM:608739,ERI1-related disease,0.0357,18,3
+PMID_37352860_Individual3,gemma4-31b,"Spondyloepimetaphyseal dysplasia, Guo-Campeau type",OMIM:608739,ERI1-related disease,0.1265,7,2
+PMID_38411716_Case4,gemma4-31b,Aarskog-Scott syndrome,OMIM:227330,"Faciodigitogenital syndrome, autosomal recessive",0.0272,13,14
+PMID_8188302_III4,gemma4-31b,"Ectopia lentis, familial",OMIM:154700,Marfan syndrome,0.0444,4,10
+PMID_12446365_BM,llama3.3-70b,"Ectopia lentis, familial",OMIM:154700,Marfan syndrome,0.0499,3,12
+PMID_12446365_JL,llama3.3-70b,"Ectopia lentis, familial",OMIM:154700,Marfan syndrome,0.0603,6,9
+PMID_12446365_RWT,llama3.3-70b,"Ectopia lentis, familial",OMIM:154700,Marfan syndrome,0.0571,5,10
+PMID_28285769_Individual4II-3,llama3.3-70b,Retinitis pigmentosa with or without skeletal anomalies,OMIM:613610,Cranioectodermal dysplasia 2,0.1381,16,14
+PMID_8188302_III2,llama3.3-70b,"Ectopia lentis, familial",OMIM:154700,Marfan syndrome,0.0316,3,11
+PMID_8188302_III4,llama3.3-70b,"Ectopia lentis, familial",OMIM:154700,Marfan syndrome,0.0444,4,10
+PMID_8188302_III5,llama3.3-70b,"Ectopia lentis, familial",OMIM:154700,Marfan syndrome,0.0823,7,7
+PMID_8188302_IV1,llama3.3-70b,"Ectopia lentis, familial",OMIM:154700,Marfan syndrome,0.0703,5,9
+PMID_8188302_IV2,llama3.3-70b,"Ectopia lentis, familial",OMIM:154700,Marfan syndrome,0.0458,4,10
+PMID_8188302_IV3,llama3.3-70b,"Ectopia lentis, familial",OMIM:154700,Marfan syndrome,0.0555,3,11
