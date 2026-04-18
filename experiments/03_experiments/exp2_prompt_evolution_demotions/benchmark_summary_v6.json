@@ -1,1 +1,28 @@
-/vol/home-vol3/wbi/elmoftym/Mofty/PhenoPacket/phenodp_gemma3_candidate_ranking/runs/phenodp_gemma3_prompt_v6_demotions_rerank/benchmark_summary.json
+{
+  "rows": [
+    {
+      "stage": "reranker",
+      "method": "reranker_gemma3_top3",
+      "status": "completed",
+      "n_cases": 509,
+      "id_correct_mrr": 0.5468238375900458,
+      "id_correct_found": 1.0,
+      "id_correct_hit_1": 0.14538310412573674,
+      "id_correct_hit_3": 1.0,
+      "id_correct_hit_5": 1.0,
+      "id_correct_hit_10": 1.0,
+      "id_and_name_correct_mrr": 0.5438768827766862,
+      "id_and_name_correct_found": 0.9941060903732809,
+      "id_and_name_correct_hit_1": 0.14538310412573674,
+      "id_and_name_correct_hit_3": 0.9941060903732809,
+      "id_and_name_correct_hit_5": 0.9941060903732809,
+      "id_and_name_correct_hit_10": 0.9941060903732809,
+      "id_or_name_correct_mrr": 0.5527177472167648,
+      "id_or_name_correct_found": 1.0,
+      "id_or_name_correct_hit_1": 0.15520628683693516,
+      "id_or_name_correct_hit_3": 1.0,
+      "id_or_name_correct_hit_5": 1.0,
+      "id_or_name_correct_hit_10": 1.0
+    }
+  ]
+}

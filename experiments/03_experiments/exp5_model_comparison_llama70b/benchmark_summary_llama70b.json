@@ -1,1 +1,52 @@
-/vol/home-vol3/wbi/elmoftym/Mofty/PhenoPacket/phenodp_gemma3_candidate_ranking/runs/phenodp_llama70b_v5_demotions_promotions/benchmark_summary.json
+{
+  "rows": [
+    {
+      "stage": "reranker",
+      "method": "reranker_gemma3_top3",
+      "status": "completed",
+      "n_cases": 100,
+      "id_correct_mrr": 0.7416666666666667,
+      "id_correct_found": 0.99,
+      "id_correct_hit_1": 0.5,
+      "id_correct_hit_3": 0.99,
+      "id_correct_hit_5": 0.99,
+      "id_correct_hit_10": 0.99,
+      "id_and_name_correct_mrr": 0.7416666666666667,
+      "id_and_name_correct_found": 0.99,
+      "id_and_name_correct_hit_1": 0.5,
+      "id_and_name_correct_hit_3": 0.99,
+      "id_and_name_correct_hit_5": 0.99,
+      "id_and_name_correct_hit_10": 0.99,
+      "id_or_name_correct_mrr": 0.7416666666666667,
+      "id_or_name_correct_found": 0.99,
+      "id_or_name_correct_hit_1": 0.5,
+      "id_or_name_correct_hit_3": 0.99,
+      "id_or_name_correct_hit_5": 0.99,
+      "id_or_name_correct_hit_10": 0.99
+    },
+    {
+      "stage": "reranker",
+      "method": "reranker_gemma3_top5",
+      "status": "completed",
+      "n_cases": 100,
+      "id_correct_mrr": 0.7365,
+      "id_correct_found": 1.0,
+      "id_correct_hit_1": 0.49,
+      "id_correct_hit_3": 0.97,
+      "id_correct_hit_5": 1.0,
+      "id_correct_hit_10": 1.0,
+      "id_and_name_correct_mrr": 0.7365,
+      "id_and_name_correct_found": 1.0,
+      "id_and_name_correct_hit_1": 0.49,
+      "id_and_name_correct_hit_3": 0.97,
+      "id_and_name_correct_hit_5": 1.0,
+      "id_and_name_correct_hit_10": 1.0,
+      "id_or_name_correct_mrr": 0.7365,
+      "id_or_name_correct_found": 1.0,
+      "id_or_name_correct_hit_1": 0.49,
+      "id_or_name_correct_hit_3": 0.97,
+      "id_or_name_correct_hit_5": 1.0,
+      "id_or_name_correct_hit_10": 1.0
+    }
+  ]
+}

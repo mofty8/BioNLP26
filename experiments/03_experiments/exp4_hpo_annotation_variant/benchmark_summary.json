@@ -1,1 +1,52 @@
-/vol/home-vol3/wbi/elmoftym/Mofty/PhenoPacket/phenodp_gemma3_candidate_ranking/runs/phenodp_gemma3_v8_hpo_ann_full_20260323_034805/benchmark_summary.json
+{
+  "rows": [
+    {
+      "stage": "reranker",
+      "method": "reranker_gemma3_top3",
+      "status": "completed",
+      "n_cases": 6901,
+      "id_correct_mrr": 0.5108679901463556,
+      "id_correct_found": 0.6326619330531807,
+      "id_correct_hit_1": 0.40805680336183164,
+      "id_correct_hit_3": 0.6326619330531807,
+      "id_correct_hit_5": 0.6326619330531807,
+      "id_correct_hit_10": 0.6326619330531807,
+      "id_and_name_correct_mrr": 0.5064966429985993,
+      "id_and_name_correct_found": 0.6267207651065063,
+      "id_and_name_correct_hit_1": 0.40501376612085205,
+      "id_and_name_correct_hit_3": 0.6267207651065063,
+      "id_and_name_correct_hit_5": 0.6267207651065063,
+      "id_and_name_correct_hit_10": 0.6267207651065063,
+      "id_or_name_correct_mrr": 0.5950828382360045,
+      "id_or_name_correct_found": 0.721054919576873,
+      "id_or_name_correct_hit_1": 0.4899289957977105,
+      "id_or_name_correct_hit_3": 0.721054919576873,
+      "id_or_name_correct_hit_5": 0.721054919576873,
+      "id_or_name_correct_hit_10": 0.721054919576873
+    },
+    {
+      "stage": "reranker",
+      "method": "reranker_gemma3_top5",
+      "status": "completed",
+      "n_cases": 6901,
+      "id_correct_mrr": 0.5165917982901029,
+      "id_correct_found": 0.6719316041153456,
+      "id_correct_hit_1": 0.39675409360962177,
+      "id_correct_hit_3": 0.6288943631357774,
+      "id_correct_hit_5": 0.6719316041153456,
+      "id_correct_hit_10": 0.6719316041153456,
+      "id_and_name_correct_mrr": 0.5113944838912234,
+      "id_and_name_correct_found": 0.6638168381394001,
+      "id_and_name_correct_hit_1": 0.393276336762788,
+      "id_and_name_correct_hit_3": 0.6225184755832488,
+      "id_and_name_correct_hit_5": 0.6638168381394001,
+      "id_and_name_correct_hit_10": 0.6638168381394001,
+      "id_or_name_correct_mrr": 0.602161522484664,
+      "id_or_name_correct_found": 0.7677148239385596,
+      "id_or_name_correct_hit_1": 0.4787711925807854,
+      "id_or_name_correct_hit_3": 0.7158382843066222,
+      "id_or_name_correct_hit_5": 0.7677148239385596,
+      "id_or_name_correct_hit_10": 0.7677148239385596
+    }
+  ]
+}
